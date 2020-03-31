@@ -154,7 +154,7 @@
   },
   "devDependencies": {
     "@types/chai": "4.2.1",
-    "@types/express": "^4.16.1",
+    "@types/express": "^4.17.4",
     "@types/lodash": "^4.14.123",
     "@types/node-fetch": "^2.3.3",
     "@types/fs-extra": "^8.0.0",
